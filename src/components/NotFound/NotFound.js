@@ -13,7 +13,9 @@ const NotFound = () => {
     return (
         <div className="not-found">
             <h1>404</h1>
-            <h5>Try using the button below to go to main of the site</h5>
+            <h4>Oops ! Sorry We Can't Find That Page.
+            </h4>
+            <p>Take a moment and Try using the button below to go to main of the site</p>
             <button onClick={handleClick} className="button" >Back To Home Page</button>
         </div>
     );

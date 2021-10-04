@@ -22,8 +22,10 @@ const Home = () => {
                 <Container>
                     <Row>
                         <Col md={7}>
-                            <p>Expert Instruction</p>
+                            <p><span className="expert">EXPERT INSTRUCTION</span></p>
                             <h1>Online Coaching <br /> Lessons Remote <br /> Learning</h1>
+                            <p>Learn new skills to go ahead for your career. A best and cheapest way of getting know learning in online to make a better tomorrow. We make your children’s future better
+                            </p>
                             <InputGroup className="input">
                                 <FormControl className="form"
                                     placeholder="What do you want to learn?"

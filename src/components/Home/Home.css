@@ -3,19 +3,19 @@
     text-align: left;
     width: 100%;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
     margin-left: 0px;
     background-color: #263B5E;
     
 }
 .banner-image{
-    width: 90%;
+    width: 100%;
     border-radius: 10px;
 }
 .input{
     margin-right: 10px;
     padding-right: 50px;
-    padding-top: 40px;
+    padding-top: 15px;
 }
 
 .search-button{
@@ -25,6 +25,11 @@
     border-radius: 5px;
     padding: 15px 30px;
     font-weight: bold;
+}
+.search-button:hover{
+    background-color: #263B5E;
+    transition: ease-in-out 0.2s;
+    border: 1px solid #FF1949;
 }
 
 .single-course{
@@ -67,5 +72,21 @@
     background: #FF1949;
     position: absolute;
     left:45%;
+    bottom: 0;
+}
+.expert{
+    color: white;
+    padding-bottom: 10px;
+    position: relative;
+    display: inline-block;
+
+}
+.expert::after{
+    content: '';
+    height: 2px;
+    width: 30%;
+    background: #FF1949;
+    position: absolute;
+    left:0;
     bottom: 0;
 }
