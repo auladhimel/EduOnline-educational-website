@@ -13,11 +13,14 @@ import Contact from './components/Contact/Contact';
 function App() {
   return (
     <div className="App">
+      {/* Routing  */}
       <BrowserRouter>
+        {/* header route  */}
         <Route>
           <Header></Header>
         </Route>
         <Switch>
+          {/* route for others pages */}
           <Route exact path="/">
             <Home></Home>
           </Route>
@@ -36,14 +39,17 @@ function App() {
           <Route path="/contact">
             <Contact></Contact>
           </Route>
+          {/* routing of not found pages  */}
           <Route path="*">
             <NotFound></NotFound>
           </Route>
         </Switch>
+        {/* routing for footer  */}
         <Route>
           <Footer></Footer>
         </Route>
       </BrowserRouter>
+      {/* routing ending */}
     </div>
   );
 }

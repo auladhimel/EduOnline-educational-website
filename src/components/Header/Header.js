@@ -2,12 +2,12 @@ import React from 'react';
 import { ButtonGroup, Button, Navbar, Container, Nav } from 'react-bootstrap';
 import { NavLink } from 'react-router-dom';
 import './Header.css';
-
+// header component 
 const Header = () => {
     return (
-
         <Navbar className="navbar" sticky="top">
             <Container>
+                {/* Navigation links  */}
                 <Nav className="navigations">
                     <NavLink to="/home" className="link">Home</NavLink>
                     <NavLink to="/about" className="link">About Us</NavLink>
@@ -19,5 +19,4 @@ const Header = () => {
         </Navbar>
     );
 };
-
 export default Header;

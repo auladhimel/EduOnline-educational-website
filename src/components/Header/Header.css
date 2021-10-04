@@ -1,3 +1,4 @@
+/* header style  */
 .navigations{
     padding: 25px;
     margin: auto;
@@ -5,20 +6,20 @@
 .navbar{
     background-color: #263B5E;
 }
+/* link style  */
 .link{
     color: white;
     text-decoration: none;
     padding-right: 20px;
     padding-left: 20px;
     font-size: larger;
-    font-weight: 500;
-    
+    font-weight: 500;  
 }
+/* link hover style  */
 .link:hover{
     transform: scale(1.1);  
     transition:  ease-in-out transform 0.5s;
     color: white;
     background-color: #FF1949;
     border-radius: 5px;
-
 }

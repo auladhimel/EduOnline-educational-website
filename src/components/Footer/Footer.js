@@ -1,33 +1,37 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import './Footer.css';
-
+// footer component 
 const Footer = () => {
     return (
         <section className="footer-section">
             <div className="footer">
+                {/* about us part  */}
                 <div>
                     <h3>About Us</h3>
-                    <p>
-                        We are the pioneer to launch the First-ever Online Support Center for Everyone absolutely Free. Our online and offline learning platforms along with the support platforms will help one learn technology and creative skills to achieve personal and professional goals. Students can enroll in our courses from anywhere in the world and have access to our wide range of services.</p>
+                    <p>We are the pioneer to launch the First-ever Online Support Center for Everyone absolutely Free. Our online and offline learning platforms along with the support platforms will help one learn technology and creative skills to achieve personal and professional goals. Students can enroll in our courses from anywhere in the world and have access to our wide range of services.</p>
                 </div>
+
+                {/* company part  */}
                 <div>
                     <h3>Company</h3>
                     <div>
                         <ul>
+                            {/* links */}
                             <li><NavLink to="/home"> About Us</NavLink></li>
                             <li><NavLink to="/home"> Contact Us</NavLink></li>
                             <li><NavLink to="/home"> Projects</NavLink></li>
                             <li><NavLink to="/home"> Terms & Condition</NavLink></li>
                             <li><NavLink to="/home"> Privacy policy</NavLink></li>
-
                         </ul>
                     </div>
                 </div>
+                {/* courses part  */}
                 <div>
                     <h3>Courses</h3>
                     <div>
                         <ul>
+                            {/* links */}
                             <li><NavLink to="/home"> SEO Business</NavLink></li>
                             <li><NavLink to="/home"> Digital Marketing</NavLink></li>
                             <li><NavLink to="/home"> Graphic Design</NavLink></li>
@@ -36,6 +40,7 @@ const Footer = () => {
                         </ul>
                     </div>
                 </div>
+                {/* Contact part  */}
                 <div>
                     <h3>Contact</h3>
                     <div>

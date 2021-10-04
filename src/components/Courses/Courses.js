@@ -2,16 +2,17 @@ import React from 'react';
 import '../Home/Home.css';
 import './Courses.css';
 
+// courses component 
 const Courses = (props) => {
-    console.log(props.course);
+    //    Destructuring 
     const { id, course_name, price, instructor, image, classes, hours } = props.course;
     return (
-
+        // single-course start
         <div className="single-course">
             <div className="image">
                 <img src={image} alt="" />
-
             </div>
+            {/* single-course information  */}
             <div className="information">
                 <h4 className="prices">${price}</h4>
                 <h5 className="title">{course_name}</h5>
@@ -20,10 +21,6 @@ const Courses = (props) => {
                 <button className="know-more1">Enroll Now</button>
             </div>
         </div>
-
-
-
     );
 };
-
 export default Courses;

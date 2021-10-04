@@ -1,14 +1,15 @@
 import React from 'react';
-
+// service component 
 const Service = (props) => {
-
+    // Destructuring 
     const { id, course_name, price, instructor, rating, reviews, image, classes, hours } = props.course;
     return (
-
-        <div className="single-service">
+        // single service start
+        < div className="single-service" >
             <div className="image">
                 <img src={image} alt="" />
             </div>
+            {/* single service text  */}
             <div className="information">
                 <h3 className="prices">${price}</h3>
                 <h4 className="title">{course_name}</h4>
@@ -17,7 +18,7 @@ const Service = (props) => {
                 <p>Reviews-{reviews} Ratings-{rating}</p>
                 <button className="know-more1">Enroll Now</button>
             </div>
-        </div>
+        </div >
     );
 };
 

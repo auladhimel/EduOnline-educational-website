@@ -1,8 +1,9 @@
+/* Not found page style  */
 .not-found{
     font-weight: 900;
-    margin: 50px 50px;
-    
+    margin: 50px 50px;  
 }
+/* button style  */
 .button{
     color: white;
     font-size: 18px;
