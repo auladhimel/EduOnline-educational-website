@@ -14,6 +14,7 @@ const Service = (props) => {
                 <h4 className="title">{course_name}</h4>
                 <p>By <span className="instructor">{instructor}</span></p>
                 <p>Reviews:{reviews} Ratings:{rating}</p>
+                <button className="know-more1">Enroll Now</button>
             </div>
         </div>
     );

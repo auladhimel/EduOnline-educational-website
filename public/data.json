@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "course_name": "The Complete JavaScript Course - 2021",
+        "course_name": "The Complete JavaScript Course",
         "price": 100,
         "instructor": "Alice Williams",
         "rating": 5,
@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "course_name": "Introduction to robotic process automation (RPA)",
+        "course_name": "Robotic Process Automation (RPA)",
         "price": 300,
         "instructor": "Harry Russell",
         "rating": 4.5,
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "course_name": "Basic web development coding online",
+        "course_name": "Basic web design, development",
         "price": 200,
         "instructor": "Felica Queen",
         "rating": 4,
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "course_name": "Responsive Website Development & Design",
+        "course_name": "Responsive Website Development",
         "price": 200,
         "instructor": "Ricardo Marshall",
         "rating": 3.5,

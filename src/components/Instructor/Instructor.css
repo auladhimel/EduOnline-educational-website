@@ -1,0 +1,9 @@
+.instrutor-container{
+    margin-top: 100px;
+    display: grid;   
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+}

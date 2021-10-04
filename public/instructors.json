@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "expertise_on": "JavaScript Specialist",
+        "price": 100,
+        "instructor": "Alice Williams",
+        "reviews": 4.5,
+        "students": 45,
+        "image": "https://envato-shoebox-0.imgix.net/b1f4/5c92-da1b-435d-b2b8-8b7c62eb135b/IMG_1341.jpg?auto=compress%2Cformat&fit=max&mark=https%3A%2F%2Felements-assets.envato.com%2Fstatic%2Fwatermark2.png&markalign=center%2Cmiddle&markalpha=18&w=1600&s=5df478af72c298489da803edc2da9ef8"
+    },
+    {
+        "id": 2,
+        "expertise_on": "Robotic Specialist",
+        "price": 300,
+        "instructor": "Harry Russell",
+        "reviews": 4.5,
+        "students": 32,
+        "image": "https://img.freepik.com/free-photo/young-cheerful-programmer-with-headphones-looking-you-with-smile-during-work-new-software-office_274679-9896.jpg?size=626&ext=jpg"
+    },
+    {
+        "id": 3,
+        "expertise_on": "Web Developer",
+        "price": 200,
+        "instructor": "Felica Queen",
+        "reviews": 4.4,
+        "students": 50,
+        "image": "https://previews.123rf.com/images/ammentorp/ammentorp1806/ammentorp180600543/103448135-software-developers-sitting-at-office-working-on-computers-happy-application-developer-working-on-a-.jpg"
+    },
+    {
+        "id": 4,
+        "expertise_on": "Full Stack Developer",
+        "price": 200,
+        "instructor": "Ricardo Marshall",
+        "reviews": 4.5,
+        "students": 75,
+        "image": "https://previews.123rf.com/images/berezko/berezko2006/berezko200600035/149671023-serious-computer-programmer-developer-working-in-it-office-sitting-at-desk-and-coding-working-on-a-p.jpg"
+    },
+    {
+        "id": 9,
+        "expertise_on": "Full Stack JavaScript Developer",
+        "price": 400,
+        "instructor": "Elle Justin",
+        "reviews": 4.4,
+        "students": 40,
+        "image": "https://cdn9.dissolve.com/p/D929_41_203/D929_41_203_1200.jpg"
+    },
+    {
+        "id": 10,
+        "expertise_on": "Software Engineer(ReactJs)",
+        "price": 450,
+        "instructor": "Joseph hallowen",
+        "reviews": 4.9,
+        "students": 35,
+        "image": "https://s3.envato.com/files/300469418/DSC06773.jpg"
+    },
+    {
+        "id": 5,
+        "expertise_on": "Android App Developer",
+        "price": 100,
+        "instructor": "Paul Flavius",
+        "reviews": 4.6,
+        "students": 55,
+        "image": "https://miro.medium.com/max/1200/1*Y0UYuGcFGSCfs5Eexafq6A.png"
+    },
+    {
+        "id": 6,
+        "expertise_on": "IT Expert",
+        "price": 400,
+        "instructor": "Joana Williams",
+        "reviews": 4.8,
+        "students": 25,
+        "image": "https://cdn7.dissolve.com/p/D538_312_021/D538_312_021_1200.jpg"
+    },
+    {
+        "id": 7,
+        "expertise_on": "Web Designer",
+        "price": 250,
+        "instructor": "Alex Costa",
+        "reviews": 4.9,
+        "students": 95,
+        "image": "https://previews.123rf.com/images/seventyfour74/seventyfour741802/seventyfour74180200603/96013619-asian-it-specialist.jpg"
+    },
+    {
+        "id": 8,
+        "expertise_on": "UI/UX Designer",
+        "price": 150,
+        "instructor": "Austin Decota",
+        "reviews": 4.5,
+        "students": 43,
+        "image": "https://image.freepik.com/free-photo/young-successful-chief-executive-officer-white-shirt-sitting-by-desk_274679-1956.jpg"
+    }
+]

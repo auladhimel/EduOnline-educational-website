@@ -2,10 +2,14 @@
     width: 100%;
 }
 .single-course{
+    border-radius: 10px;
+    box-shadow: 10px 10px 8px #888888;
     text-align: left;
+    padding-bottom: 10px;
 }
 .information{
     margin-left: 20px;
+    margin-top: 10px;
 }
 .prices{
     color: #FF1949;
@@ -15,6 +19,7 @@
     color: #263B5E;
 }
 .instructor {
+    margin-right: 5px;
     color: #F2B827;
     font-weight: bold;
 }

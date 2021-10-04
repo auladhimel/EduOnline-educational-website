@@ -10,12 +10,13 @@ const Courses = (props) => {
         <div className="single-course">
             <div className="image">
                 <img src={image} alt="" />
+
             </div>
             <div className="information">
-                <h3 className="prices">${price}</h3>
-                <h4 className="title">{course_name}</h4>
+                <h4 className="prices">${price}</h4>
+                <h5 className="title">{course_name}</h5>
                 <p>By <span className="instructor">{instructor}</span></p>
-                <p>Reviews:{reviews} Ratings:{rating}</p>
+                <button className="know-more1">Enroll Now</button>
             </div>
         </div>
 
