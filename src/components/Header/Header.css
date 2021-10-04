@@ -1,5 +1,6 @@
 /* header style  */
 .navigations{
+    font-family: 'Montserrat', sans-serif;
     padding: 25px;
     margin: auto;
 }
@@ -22,4 +23,14 @@
     color: white;
     background-color: #FF1949;
     border-radius: 5px;
+}
+/* login style  */
+.login{
+    background-color: #FF1949;
+    font-weight: bold;
+    margin-left: 30px;
+    border-radius: 5px;
+    padding-top: 7px;
+    padding-bottom: 8px;
+    margin-bottom: 5px;
 }

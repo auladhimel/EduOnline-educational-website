@@ -1,5 +1,6 @@
 /* footer part style  */
 .footer{  
+    font-family: 'Montserrat', sans-serif;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-column-gap: 10px;

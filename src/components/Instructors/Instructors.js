@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Instructor from '../Instructor/Instructor';
-import './Instructors.css';
+
 
 // instructors component 
 const Instructors = () => {

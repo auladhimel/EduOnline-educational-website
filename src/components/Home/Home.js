@@ -2,6 +2,8 @@ import React, { useEffect, useState } from 'react';
 import { Button, ButtonGroup, Col, Container, FormControl, InputGroup, Row } from 'react-bootstrap';
 import Courses from '../Courses/Courses';
 import './Home.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCoffee, faSearch, faCheck } from '@fortawesome/free-solid-svg-icons';
 
 
 const Home = () => {
@@ -13,6 +15,8 @@ const Home = () => {
             .then(res => res.json())
             .then(data => setCourses(data))
     }, [])
+
+    const elementSearch = <FontAwesomeIcon icon={faSearch} />
 
 
     return (
@@ -31,7 +35,7 @@ const Home = () => {
                                     placeholder="What do you want to learn?"
                                     aria-label="Recipient's username with two button addons"
                                 />
-                                <button className="search-button" >Search</button>
+                                <button className="search-button" > Search {elementSearch}</button>
                             </InputGroup>
 
                         </Col>

@@ -1,5 +1,6 @@
 /* instructor container  */
 .instrutor-container{
+    font-family: 'Montserrat', sans-serif;
     margin-top: 100px;
     display: grid;   
     grid-template-columns: repeat(3, 1fr);

@@ -1,5 +1,6 @@
 /* banner style  */
 .banner-part{
+    font-family: 'Montserrat', sans-serif;
     color: white;
     text-align: left;
     width: 100%;
@@ -43,6 +44,7 @@
 }
 /* online course style  */
 .online-courses{
+    font-family: 'Montserrat', sans-serif;
     margin-top: 30px;
     margin-bottom: 100px;
 }

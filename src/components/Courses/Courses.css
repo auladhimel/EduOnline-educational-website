@@ -7,6 +7,7 @@
 }
 /* single-course style */
 .single-course{
+    font-family: 'Montserrat', sans-serif;
     border-radius: 10px;
     box-shadow: 8px 8px 20px #888888;
     text-align: left;
@@ -27,6 +28,6 @@
 /* instructor style */
 .instructor {
     margin-right: 5px;
-    color: #F2B827;
+    color: #FF1949;
     font-weight: bold;
 }

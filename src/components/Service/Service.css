@@ -1,5 +1,6 @@
 /* service part style  */
 .Service-container{
+    font-family: 'Montserrat', sans-serif;
     margin-top: 100px;
     display: grid;   
     grid-template-columns: repeat(3, 1fr);
@@ -11,6 +12,7 @@
 }
 /* single service style  */
 .single-service{
+    font-family: 'Montserrat', sans-serif;
     display: grid;
     box-shadow: 8px 8px 20px #888888;
     border-radius: 10px;
@@ -37,4 +39,5 @@
 /* classes hours style  */
 .classes-hours{
     font-weight: bold;
+    color: #263B5E;
 }
