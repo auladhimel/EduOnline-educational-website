@@ -8,7 +8,7 @@ import Header from './components/Header/Header';
 import Footer from './components/Footer/Footer';
 import NotFound from './components/NotFound/NotFound';
 import Instructors from './components/Instructors/Instructors';
-import Contact from './components/Contact/Contact';
+
 
 function App() {
   return (
@@ -35,9 +35,6 @@ function App() {
           </Route>
           <Route path="/instructors">
             <Instructors></Instructors>
-          </Route>
-          <Route path="/contact">
-            <Contact></Contact>
           </Route>
           {/* routing of not found pages  */}
           <Route path="*">

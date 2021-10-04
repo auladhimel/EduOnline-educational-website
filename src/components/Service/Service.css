@@ -19,6 +19,10 @@
     padding-bottom: 10px;
     
 }
+.single-service:hover{
+    transform: scale(1.025);
+    transition: ease-in-out 0.5s ;
+}
 /* single service image style  */
 .single-service img{
     width: 100%;

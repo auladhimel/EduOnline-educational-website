@@ -20,7 +20,7 @@ const Courses = (props) => {
                 <h4 className="prices">${price}</h4>
                 <h5 className="title">{course_name}</h5>
                 <p>By <span className="instructor">{instructor}</span></p>
-                <p className="classes-hours">Class- {classes} & Hours- {hours}</p>
+                <p className="classes-hours">Class- {classes} &nbsp; Hours- {hours}</p>
                 <button className="know-more1">{elementCheck} Enroll Now</button>
             </div>
         </div>
