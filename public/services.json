@@ -6,6 +6,8 @@
         "instructor": "Alice Williams",
         "rating": 5,
         "reviews": 45,
+        "classes": 30,
+        "hours": 60,
         "image": "https://miro.medium.com/max/1400/0*Bcp6hfxkWp1mEa1n.jpg"
     },
     {
@@ -15,6 +17,8 @@
         "instructor": "Harry Russell",
         "rating": 4.5,
         "reviews": 32,
+        "classes": 32,
+        "hours": 64,
         "image": "https://image.slidesharecdn.com/introductiontorpa-200114132003/95/what-is-robotic-process-automation-rpa-introduction-to-rpa-rpa-training-simplilearn-1-638.jpg?cb=1579008166"
     },
     {
@@ -24,6 +28,8 @@
         "instructor": "Felica Queen",
         "rating": 4,
         "reviews": 50,
+        "classes": 24,
+        "hours": 48,
         "image": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
     },
     {
@@ -33,6 +39,8 @@
         "instructor": "Ricardo Marshall",
         "rating": 3.5,
         "reviews": 75,
+        "classes": 35,
+        "hours": 70,
         "image": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg"
     },
     {
@@ -42,6 +50,8 @@
         "instructor": "Paul Flavius",
         "rating": 5,
         "reviews": 55,
+        "classes": 25,
+        "hours": 50,
         "image": "https://www.mobileapplications.online/wp-content/uploads/2019/06/android-app-development.jpg"
     },
     {
@@ -51,6 +61,8 @@
         "instructor": "Joana Williams",
         "rating": 4.8,
         "reviews": 25,
+        "classes": 35,
+        "hours": 70,
         "image": "https://www.datacentral.com.au/wp-content/uploads/2020/09/itsupport.jpg"
     },
     {
@@ -60,6 +72,8 @@
         "instructor": "Alex Costa",
         "rating": 4.9,
         "reviews": 95,
+        "classes": 15,
+        "hours": 30,
         "image": "https://revenuesandprofits.com/wp-content/uploads/2020/09/pojmovi-u-web-dizajnu.jpg"
     },
     {
@@ -69,6 +83,8 @@
         "instructor": "Austin Decota",
         "rating": 4.5,
         "reviews": 43,
+        "classes": 22,
+        "hours": 44,
         "image": "https://miro.medium.com/max/1400/1*Y1OLX39lJUt_CC-F7rFg4A.png"
     },
     {
@@ -78,6 +94,8 @@
         "instructor": "Elle Justin",
         "rating": 4.4,
         "reviews": 40,
+        "classes": 21,
+        "hours": 42,
         "image": "https://miro.medium.com/max/1200/1*Pny55BWnNHNc87eG8hHxnA.jpeg"
     },
     {
@@ -87,6 +105,8 @@
         "instructor": "Joseph hallowen",
         "rating": 5,
         "reviews": 35,
+        "classes": 25,
+        "hours": 50,
         "image": "https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png"
     }
 ]

@@ -14,8 +14,8 @@ const Instructors = () => {
     }, [])
     return (
         <div className="online-courses">
-            <p><span className="trending">TRENDING COURSES</span></p>
-            <h1><span className="popular">Our Popular Online Course</span></h1>
+            <p><span className="trending">INSTRUCTORS</span></p>
+            <h1><span className="popular">Our World Class Mentor</span></h1>
             <div className="instrutor-container">
 
                 {

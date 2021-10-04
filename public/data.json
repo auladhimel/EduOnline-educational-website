@@ -4,8 +4,10 @@
         "course_name": "The Complete JavaScript Course",
         "price": 100,
         "instructor": "Alice Williams",
-        "rating": 5,
+        "rating": 5.00,
         "reviews": 45,
+        "classes": 35,
+        "hours": 70,
         "image": "https://miro.medium.com/max/1400/0*Bcp6hfxkWp1mEa1n.jpg"
     },
     {
@@ -15,6 +17,8 @@
         "instructor": "Harry Russell",
         "rating": 4.5,
         "reviews": 32,
+        "classes": 25,
+        "hours": 50,
         "image": "https://image.slidesharecdn.com/introductiontorpa-200114132003/95/what-is-robotic-process-automation-rpa-introduction-to-rpa-rpa-training-simplilearn-1-638.jpg?cb=1579008166"
     },
     {
@@ -24,6 +28,8 @@
         "instructor": "Felica Queen",
         "rating": 4,
         "reviews": 50,
+        "classes": 15,
+        "hours": 30,
         "image": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
     },
     {
@@ -33,6 +39,8 @@
         "instructor": "Ricardo Marshall",
         "rating": 3.5,
         "reviews": 75,
+        "classes": 20,
+        "hours": 40,
         "image": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg"
     }
 ]
