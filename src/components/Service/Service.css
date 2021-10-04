@@ -1,0 +1,28 @@
+.Service-container{
+    margin-top: 100px;
+    display: grid;   
+    grid-template-columns: repeat(3, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.single-service{
+    display: grid;
+    
+}
+
+.single-service img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+.banner-body{
+    margin-top: 30px; 
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+    background-image: url('https://www.arch2o.com/wp-content/uploads/2015/06/Arch2O-10-places-to-study-online-architecture-programs-get-architecture-courses-4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

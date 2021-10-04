@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "course_name": "The Complete JavaScript Course - 2021",
+        "price": 100,
+        "instructor": "Alice Williams",
+        "rating": 5,
+        "reviews": 45,
+        "image": "https://miro.medium.com/max/1400/0*Bcp6hfxkWp1mEa1n.jpg"
+    },
+    {
+        "id": 2,
+        "course_name": "Introduction to robotic process automation (RPA)",
+        "price": 300,
+        "instructor": "Harry Russell",
+        "rating": 4.5,
+        "reviews": 32,
+        "image": "https://image.slidesharecdn.com/introductiontorpa-200114132003/95/what-is-robotic-process-automation-rpa-introduction-to-rpa-rpa-training-simplilearn-1-638.jpg?cb=1579008166"
+    },
+    {
+        "id": 3,
+        "course_name": "Basic web development coding online",
+        "price": 200,
+        "instructor": "Felica Queen",
+        "rating": 4,
+        "reviews": 50,
+        "image": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
+    },
+    {
+        "id": 4,
+        "course_name": "Responsive Website Development & Design",
+        "price": 200,
+        "instructor": "Ricardo Marshall",
+        "rating": 3.5,
+        "reviews": 75,
+        "image": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg"
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "course_name": "The Complete JavaScript Course - 2021",
+        "price": 100,
+        "instructor": "Alice Williams",
+        "rating": 5,
+        "reviews": 45,
+        "image": "https://miro.medium.com/max/1400/0*Bcp6hfxkWp1mEa1n.jpg"
+    },
+    {
+        "id": 2,
+        "course_name": "Introduction to robotic process automation (RPA)",
+        "price": 300,
+        "instructor": "Harry Russell",
+        "rating": 4.5,
+        "reviews": 32,
+        "image": "https://image.slidesharecdn.com/introductiontorpa-200114132003/95/what-is-robotic-process-automation-rpa-introduction-to-rpa-rpa-training-simplilearn-1-638.jpg?cb=1579008166"
+    },
+    {
+        "id": 3,
+        "course_name": "Basic web development coding online",
+        "price": 200,
+        "instructor": "Felica Queen",
+        "rating": 4,
+        "reviews": 50,
+        "image": "https://webapp99.com/wp-content/uploads/2020/04/web-development-guideline-for-2020-t0-2030.jpeg"
+    },
+    {
+        "id": 4,
+        "course_name": "Responsive Website Development & Design",
+        "price": 200,
+        "instructor": "Ricardo Marshall",
+        "rating": 3.5,
+        "reviews": 75,
+        "image": "https://kinsta.com/wp-content/uploads/2020/02/web-design-best-practices-1024x512.jpg"
+    },
+    {
+        "id": 5,
+        "course_name": "Developing Android Apps , App Inventor",
+        "price": 100,
+        "instructor": "Paul Flavius",
+        "rating": 5,
+        "reviews": 55,
+        "image": "https://www.mobileapplications.online/wp-content/uploads/2019/06/android-app-development.jpg"
+    },
+    {
+        "id": 6,
+        "course_name": "Google IT Support Professional Certificate",
+        "price": 400,
+        "instructor": "Joana Williams",
+        "rating": 4.8,
+        "reviews": 25,
+        "image": "https://www.datacentral.com.au/wp-content/uploads/2020/09/itsupport.jpg"
+    },
+    {
+        "id": 7,
+        "course_name": "Web Design: Wireframes to Prototypes",
+        "price": 250,
+        "instructor": "Alex Costa",
+        "rating": 4.9,
+        "reviews": 95,
+        "image": "https://revenuesandprofits.com/wp-content/uploads/2020/09/pojmovi-u-web-dizajnu.jpg"
+    },
+    {
+        "id": 8,
+        "course_name": "Information About UI/UX Design Degree",
+        "price": 150,
+        "instructor": "Austin Decota",
+        "rating": 4.5,
+        "reviews": 43,
+        "image": "https://miro.medium.com/max/1400/1*Y1OLX39lJUt_CC-F7rFg4A.png"
+    },
+    {
+        "id": 9,
+        "course_name": "JavaScript Master Plus Course - 2021",
+        "price": 400,
+        "instructor": "Elle Justin",
+        "rating": 4.4,
+        "reviews": 40,
+        "image": "https://miro.medium.com/max/1200/1*Pny55BWnNHNc87eG8hHxnA.jpeg"
+    },
+    {
+        "id": 10,
+        "course_name": "React – The Complete Guide (React Router)",
+        "price": 450,
+        "instructor": "Joseph hallowen",
+        "rating": 5,
+        "reviews": 35,
+        "image": "https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png"
+    }
+]

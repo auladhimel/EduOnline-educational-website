@@ -1,0 +1,71 @@
+.banner-part{
+    color: white;
+    text-align: left;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 0px;
+    background-color: #263B5E;
+    
+}
+.banner-image{
+    width: 90%;
+    border-radius: 10px;
+}
+.input{
+    margin-right: 10px;
+    padding-right: 50px;
+    padding-top: 40px;
+}
+
+.search-button{
+    color: white;
+    background-color: #FF1949;
+    border: 1px solid white;
+    border-radius: 5px;
+    padding: 15px 30px;
+    font-weight: bold;
+}
+
+.single-course{
+    display: flex;
+}
+.single-course img{
+    width: 100%;
+    border-radius: 10px;
+    
+}
+
+.online-courses{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+.course-container{
+    margin-top: 100px;
+    display: grid;   
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 30px;
+    grid-row-gap: 25px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.trending, .popular{
+    color: #FF1949;
+    font-weight: bold;
+}
+.popular{
+    color: #263B5E;
+    font-weight: bold;
+    padding-bottom: 15px;
+    position: relative;
+    display: inline-block;
+}
+.popular::after{
+    content: '';
+    height: 2px;
+    width: 10%;
+    background: #FF1949;
+    position: absolute;
+    left:45%;
+    bottom: 0;
+}
