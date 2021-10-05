@@ -19,7 +19,7 @@ const Footer = () => {
                 {/* about us part  */}
                 <div>
                     <h3>About Us</h3>
-                    <p>We are the pioneer to launch the First-ever Online Support Center for Everyone absolutely Free. Our online and offline learning platforms along with the support platforms will help one learn technology and creative skills to achieve personal and professional goals. Students can enroll in our courses from anywhere in the world and have access to our wide range of services.</p>
+                    <p>We are the pioneer to launch the First-ever Online Support Center for Everyone absolutely Free. Our online and offline learning platforms along with the support platforms will help one learn technology and creative skills to achieve personal and professional goals. </p>
                     <div><h3>{elementFax} &nbsp; {elementInbox} &nbsp;{elementEnvelope} &nbsp;{elementVoice}</h3></div>
                 </div>
 

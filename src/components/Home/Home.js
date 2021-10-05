@@ -25,7 +25,7 @@ const Home = () => {
             <div className="banner-part">
                 <Container>
                     <Row>
-                        <Col md={7}>
+                        <Col md={6}>
                             <p><span className="expert">EXPERT INSTRUCTION</span></p>
                             <h1>Online Coaching <br /> Lessons Remote <br /> Learning</h1>
                             <p>Learn new skills to go ahead for your career. A best and cheapest way of getting know learning in online to make a better tomorrow. We make your children’s future better
@@ -39,7 +39,7 @@ const Home = () => {
                             </InputGroup>
 
                         </Col>
-                        <Col md={5}>
+                        <Col md={6}>
                             <img className="banner-image" src="https://res.cloudinary.com/grand-canyon-university/image/fetch/w_750,h_564,c_fill,g_faces/https://www.gcu.edu/sites/default/files/2020-09/programming.jpg" alt="" />
                         </Col>
                     </Row>

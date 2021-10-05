@@ -31,7 +31,7 @@
     background-color: #FF1949;
     font-size: larger;
     font-weight: bold;
-    margin-left: 30px;
+    margin-left: 40px;
     border-radius: 5px;
     padding-top: 7px;
     padding-bottom: 8px;
@@ -46,3 +46,22 @@
     font-weight: bold;
     border-radius: 5px;
 }
+/* logo style  */
+.eduonline{
+    color: #FF1949;
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: -30px;
+    margin-top: -5px;
+    border-radius: 5px;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+    padding-right: 200px;
+    padding-left: 0px;
+}
+.eduonline:hover{  
+    color: white;
+}
+

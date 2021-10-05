@@ -11,8 +11,9 @@
     
 }
 .banner-image{
-    width: 100%;
+    width: 88%;
     border-radius: 10px;
+    margin-left: 20px;
 }
 /* input field style  */
 .input{
